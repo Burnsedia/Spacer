@@ -11,7 +11,7 @@
 
   apps:
     spacer2d:
-      command:spacer2d
+      command:bin/spacer2d
   
   
   parts:
